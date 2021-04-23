@@ -1,0 +1,13 @@
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.exe
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.deps.json
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.runtimeconfig.json
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.runtimeconfig.dev.json
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.dll
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\bin\Debug\netcoreapp3.1\GitGoUpToheaven.pdb
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.AssemblyInfoInputs.cache
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.AssemblyInfo.cs
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.csproj.CoreCompileInputs.cache
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.dll
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.pdb
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.genruntimeconfig.cache
+C:\Users\Tees\source\repos\GitGoUpToheaven\GitGoUpToheaven\obj\Debug\netcoreapp3.1\GitGoUpToheaven.csprojAssemblyReference.cache
